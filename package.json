@@ -1,0 +1,25 @@
+{
+    "name": "react-native-codempire-template",
+    "version": "0.0.1",
+    "description": "React Native Template by Codempire",
+    "scripts": {
+      "test": "exit 0"
+    },
+    "files": [
+      "template",
+      "template.config.js",
+      "script.js"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/codempireio/react-native-codempire-template.git"
+    },
+    "keywords": [
+      "react-native",
+      "typescript",
+      "template",
+      "boilerplate"
+    ],
+    "author": "dima@codempire.team",
+    "license": "MIT"
+  }
